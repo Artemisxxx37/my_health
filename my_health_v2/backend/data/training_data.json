@@ -1,0 +1,203 @@
+{
+  "diseases": [
+    {
+      "name": "grippe",
+      "symptoms": [
+        "fièvre élevée toux sèche fatigue intense courbatures maux de tête frissons",
+        "forte fièvre courbatures toux fatigue maux de tête",
+        "température 39 courbatures généralisées toux sèche fatigue",
+        "syndrome grippal fièvre courbatures toux frissons",
+        "fièvre haute douleurs musculaires toux sèche fatigue extrême",
+        "courbatures articulaires fièvre toux maux de tête",
+        "fièvre 38.5 fatigue intense courbatures toux",
+        "toux sèche fièvre élevée courbatures généralisées frissons"
+      ],
+      "severity": "modéré",
+      "typical_duration": "5-7 jours",
+      "age_group": "tout âge"
+    },
+    {
+      "name": "rhume",
+      "symptoms": [
+        "nez bouché éternuements mal de gorge toux légère",
+        "nez qui coule éternuements gorge irritée",
+        "rhinite éternuements nez congestionné légère toux",
+        "écoulement nasal éternuements mal de gorge",
+        "nez bouché éternuements toux légère gorge qui gratte",
+        "congestion nasale éternuements fréquents gorge irritée",
+        "rhinite aiguë éternuements nez qui coule mal de gorge",
+        "éternuements nez bouché gorge qui gratte toux"
+      ],
+      "severity": "léger",
+      "typical_duration": "7-10 jours",
+      "age_group": "tout âge"
+    },
+    {
+      "name": "angine",
+      "symptoms": [
+        "mal de gorge intense difficulté à avaler fièvre ganglions",
+        "gorge très douloureuse fièvre ganglions gonflés",
+        "douleur gorge intense déglutition difficile fièvre",
+        "pharyngite aiguë douleur gorge fièvre ganglions",
+        "gorge enflammée difficulté avaler fièvre élevée",
+        "amygdales gonflées mal de gorge intense fièvre",
+        "douleur gorge aiguë fièvre ganglions cervicaux palpables",
+        "mal de gorge sévère déglutition douloureuse fièvre"
+      ],
+      "severity": "modéré",
+      "typical_duration": "3-5 jours",
+      "age_group": "tout âge"
+    },
+    {
+      "name": "gastro-entérite",
+      "symptoms": [
+        "diarrhée vomissements nausées crampes abdominales",
+        "diarrhée aiguë vomissements douleurs ventre",
+        "vomissements diarrhée crampes abdominales nausées",
+        "troubles digestifs diarrhée vomissements crampes intestinales",
+        "diarrhée liquide vomissements douleurs abdominales",
+        "vomissements répétés diarrhée aiguë crampes ventre",
+        "diarrhée vomissements déshydratation crampes",
+        "nausées vomissements diarrhée douleurs abdominales"
+      ],
+      "severity": "modéré",
+      "typical_duration": "2-5 jours",
+      "age_group": "tout âge"
+    },
+    {
+      "name": "migraine",
+      "symptoms": [
+        "maux de tête intenses sensibilité lumière nausées",
+        "céphalées pulsatiles photophobie nausées vomissements",
+        "mal de tête sévère lumière insupportable nausées",
+        "migraine intense sensibilité au bruit photophobie",
+        "douleur crânienne pulsatile photophobie phonophobie",
+        "céphalée intense lumière gênante nausées",
+        "mal de tête unilatéral sensibilité lumière son",
+        "migraine sévère aura visuelle nausées vomissements"
+      ],
+      "severity": "modéré",
+      "typical_duration": "4-72 heures",
+      "age_group": "adultes principalement"
+    },
+    {
+      "name": "allergie",
+      "symptoms": [
+        "éternuements démangeaisons yeux rouges nez qui coule",
+        "rhinite allergique éternuements yeux qui piquent larmoiement",
+        "yeux irrités éternuements nez qui coule démangeaisons",
+        "allergie saisonnière éternuements larmoiement nez bouché",
+        "éternuements fréquents yeux rouges nez qui coule",
+        "rhinite allergique éternuements démangeaisons nasales",
+        "yeux qui pleurent éternuements nez bouché démangeaisons",
+        "allergie pollen éternuements yeux irrités écoulement nasal"
+      ],
+      "severity": "léger",
+      "typical_duration": "variable",
+      "age_group": "tout âge"
+    },
+    {
+      "name": "bronchite",
+      "symptoms": [
+        "toux grasse expectorations fatigue légère fièvre",
+        "toux productive mucus fièvre modérée essoufflement",
+        "bronchite aiguë toux grasse expectorations fièvre",
+        "toux avec glaires fièvre fatigue respiration sifflante",
+        "toux productive fièvre légère essoufflement fatigue",
+        "toux grasse persistante fatigue fièvre expectorations",
+        "expectorations abondantes toux grasse fièvre modérée",
+        "bronchite toux productive difficultés respiratoires fièvre"
+      ],
+      "severity": "modéré",
+      "typical_duration": "7-21 jours",
+      "age_group": "tout âge"
+    },
+    {
+      "name": "sinusite",
+      "symptoms": [
+        "douleur faciale nez bouché maux de tête pression sinusale",
+        "sinusite frontale douleur front nez congestionné fièvre",
+        "pression sinus douleur faciale nez bouché maux de tête",
+        "douleur sinus maxillaires nez bouché céphalées",
+        "congestion nasale douleur pression faciale maux de tête",
+        "sinusite aiguë douleur front joues nez bouché",
+        "pression sinusale douleur faciale sécrétions nasales",
+        "douleur sinus nez bouché maux de tête frontaux fièvre"
+      ],
+      "severity": "modéré",
+      "typical_duration": "7-14 jours",
+      "age_group": "adultes principalement"
+    },
+    {
+      "name": "otite",
+      "symptoms": [
+        "douleur oreille fièvre diminution audition",
+        "otalgie intense fièvre écoulement oreille",
+        "douleur aiguë oreille fièvre irritabilité",
+        "mal d'oreille fièvre sensation oreille bouchée",
+        "douleur pulsatile oreille fièvre trouble audition",
+        "otite moyenne douleur oreille fièvre",
+        "douleur intense oreille fièvre écoulement purulent",
+        "mal d'oreille fièvre pression dans l'oreille"
+      ],
+      "severity": "modéré",
+      "typical_duration": "3-7 jours",
+      "age_group": "enfants principalement"
+    },
+    {
+      "name": "conjonctivite",
+      "symptoms": [
+        "yeux rouges larmoiement démangeaisons sécrétions",
+        "conjonctivite oeil rouge larmes sécrétions purulentes",
+        "yeux irrités rougeur larmoiement démangeaisons",
+        "oeil rouge qui coule démangeaisons sensation corps étranger",
+        "rougeur oculaire larmoiement sécrétions matinales",
+        "yeux rouges gonflés larmes sécrétions",
+        "conjonctivite allergique yeux rouges démangeaisons larmes",
+        "oeil rouge larmoiement sensation de sable démangeaisons"
+      ],
+      "severity": "léger",
+      "typical_duration": "5-7 jours",
+      "age_group": "tout âge"
+    },
+    {
+      "name": "cystite",
+      "symptoms": [
+        "brûlures mictionnelles envies fréquentes uriner douleurs bas ventre",
+        "infection urinaire brûlures urinaires fréquence mictionnelle",
+        "douleur en urinant envies pressantes douleurs pelviennes",
+        "brûlures urinaires mictions fréquentes douleurs abdominales basses",
+        "cystite aiguë brûlures mictionnelles urgences mictionnelles",
+        "douleurs mictionnelles envies fréquentes urines troubles",
+        "brûlures urinaires sensation vessie pleine douleurs pelviennes",
+        "infection urinaire brûlures fréquence urgence mictionnelle"
+      ],
+      "severity": "modéré",
+      "typical_duration": "3-5 jours",
+      "age_group": "adultes, femmes principalement"
+    },
+    {
+      "name": "varicelle",
+      "symptoms": [
+        "éruption cutanée vésicules démangeaisons fièvre",
+        "boutons qui démangent vésicules fièvre fatigue",
+        "éruption vésiculeuse prurit fièvre légère",
+        "plaques rouges vésicules démangeaisons intenses fièvre",
+        "varicelle éruption vésicules qui grattent fièvre",
+        "boutons d'eau démangeaisons fièvre fatigue",
+        "éruption cutanée vésicules prurit généralisé fièvre",
+        "vésicules qui démangent éruption généralisée fièvre"
+      ],
+      "severity": "modéré",
+      "typical_duration": "7-10 jours",
+      "age_group": "enfants principalement"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2025-01-15",
+    "total_diseases": 12,
+    "total_samples": 96,
+    "language": "fr"
+  }
+}

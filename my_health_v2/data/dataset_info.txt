@@ -1,0 +1,84 @@
+============================================================
+DIAGNOX - DATASET INFORMATION
+============================================================
+
+Date: 2025-12-01 00:40:38
+Maladies: 12
+Symptômes uniques: 34
+
+MALADIES ET SYMPTÔMES:
+------------------------------------------------------------
+
+Grippe (modéré)
+  Symptômes: fièvre, toux, fatigue, courbatures, mal_tete, frissons
+
+Rhume (léger)
+  Symptômes: nez_bouche, toux_legere, mal_gorge, fatigue
+
+Gastro (modéré)
+  Symptômes: nausée, vomissement, diarrhée, crampes_abdominales
+
+Angine (modéré)
+  Symptômes: mal_gorge_intense, fièvre, ganglions, difficulté_avaler
+
+Migraine (modéré)
+  Symptômes: mal_tete_intense, sensibilité_lumière, nausée, vision_troublée
+
+Allergie (léger)
+  Symptômes: éternuements, démangeaisons, yeux_rouges, nez_qui_coule
+
+Bronchite (grave)
+  Symptômes: toux, fièvre, essoufflement, poitrine_douloureuse
+
+Diabète (modéré)
+  Symptômes: fatigue, soif_excessive, mictions_fréquentes, perte_poids
+
+Hypertension (modéré)
+  Symptômes: mal_tete, vertiges, essoufflement, douleur_poitrine
+
+Pneumonie (grave)
+  Symptômes: toux, fièvre, essoufflement, douleur_poitrine, mal_tete
+
+Arthrite (modéré)
+  Symptômes: douleurs_articulations, gonflement, raideur, fatigue
+
+Sinusite (léger)
+  Symptômes: mal_tete, nez_bouche, congestion_nasale, mal_gorge
+
+============================================================
+TOUS LES SYMPTÔMES:
+------------------------------------------------------------
+ 1. congestion_nasale
+ 2. courbatures
+ 3. crampes_abdominales
+ 4. diarrhée
+ 5. difficulté_avaler
+ 6. douleur_poitrine
+ 7. douleurs_articulations
+ 8. démangeaisons
+ 9. essoufflement
+10. fatigue
+11. fièvre
+12. frissons
+13. ganglions
+14. gonflement
+15. mal_gorge
+16. mal_gorge_intense
+17. mal_tete
+18. mal_tete_intense
+19. mictions_fréquentes
+20. nausée
+21. nez_bouche
+22. nez_qui_coule
+23. perte_poids
+24. poitrine_douloureuse
+25. raideur
+26. sensibilité_lumière
+27. soif_excessive
+28. toux
+29. toux_legere
+30. vertiges
+31. vision_troublée
+32. vomissement
+33. yeux_rouges
+34. éternuements
